@@ -42,12 +42,12 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		1D29EFA829C757FB004D0A08 /* 03_Title */ = {
+		1D29EFA829C757FB004D0A08 /* 03_String */ = {
 			isa = PBXGroup;
 			children = (
 				1D29EFA929C7581F004D0A08 /* main.swift */,
 			);
-			path = 03_Title;
+			path = 03_String;
 			sourceTree = "<group>";
 		};
 		1D29EFAB29C7585E004D0A08 /* 02_String Manipulation */ = {
@@ -63,7 +63,7 @@
 			children = (
 				1DBBFA9029BE14C2003D70CA /* 01_practice_optionals */,
 				1D29EFAB29C7585E004D0A08 /* 02_String Manipulation */,
-				1D29EFA829C757FB004D0A08 /* 03_Title */,
+				1D29EFA829C757FB004D0A08 /* 03_String */,
 				1DBBFA8F29BE14C2003D70CA /* Products */,
 			);
 			sourceTree = "<group>";
