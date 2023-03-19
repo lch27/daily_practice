@@ -25,7 +25,7 @@
 
 /* Begin PBXFileReference section */
 		1D8A042329C7533000E8F97E /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
-		1DBBFA8E29BE14C2003D70CA /* practice_optionals */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = practice_optionals; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DBBFA8E29BE14C2003D70CA /* swift_practice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = swift_practice; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DBBFA9129BE14C2003D70CA /* optionals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = optionals.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -52,7 +52,7 @@
 		1DBBFA8F29BE14C2003D70CA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1DBBFA8E29BE14C2003D70CA /* practice_optionals */,
+				1DBBFA8E29BE14C2003D70CA /* swift_practice */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -68,9 +68,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1DBBFA8D29BE14C2003D70CA /* practice_optionals */ = {
+		1DBBFA8D29BE14C2003D70CA /* swift_practice */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1DBBFA9529BE14C2003D70CA /* Build configuration list for PBXNativeTarget "practice_optionals" */;
+			buildConfigurationList = 1DBBFA9529BE14C2003D70CA /* Build configuration list for PBXNativeTarget "swift_practice" */;
 			buildPhases = (
 				1DBBFA8A29BE14C2003D70CA /* Sources */,
 				1DBBFA8B29BE14C2003D70CA /* Frameworks */,
@@ -80,9 +80,9 @@
 			);
 			dependencies = (
 			);
-			name = practice_optionals;
+			name = swift_practice;
 			productName = practice_optionals;
-			productReference = 1DBBFA8E29BE14C2003D70CA /* practice_optionals */;
+			productReference = 1DBBFA8E29BE14C2003D70CA /* swift_practice */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -100,7 +100,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 1DBBFA8929BE14C2003D70CA /* Build configuration list for PBXProject "practice_optionals" */;
+			buildConfigurationList = 1DBBFA8929BE14C2003D70CA /* Build configuration list for PBXProject "swift_practice" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -113,7 +113,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1DBBFA8D29BE14C2003D70CA /* practice_optionals */,
+				1DBBFA8D29BE14C2003D70CA /* swift_practice */,
 			);
 		};
 /* End PBXProject section */
@@ -269,7 +269,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1DBBFA8929BE14C2003D70CA /* Build configuration list for PBXProject "practice_optionals" */ = {
+		1DBBFA8929BE14C2003D70CA /* Build configuration list for PBXProject "swift_practice" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1DBBFA9329BE14C2003D70CA /* Debug */,
@@ -278,7 +278,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1DBBFA9529BE14C2003D70CA /* Build configuration list for PBXNativeTarget "practice_optionals" */ = {
+		1DBBFA9529BE14C2003D70CA /* Build configuration list for PBXNativeTarget "swift_practice" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1DBBFA9629BE14C2003D70CA /* Debug */,
