@@ -9,7 +9,8 @@
 /* Begin PBXBuildFile section */
 		1D29EFAA29C7581F004D0A08 /* String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D29EFA929C7581F004D0A08 /* String.swift */; };
 		1D29EFAF29C75ADF004D0A08 /* 04_Dictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D29EFAE29C75ADF004D0A08 /* 04_Dictionary.swift */; };
-		1D29EFB229C81CC8004D0A08 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D29EFB129C81CC8004D0A08 /* main.swift */; };
+		1D29EFB229C81CC8004D0A08 /* 05_Optional Chaining.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D29EFB129C81CC8004D0A08 /* 05_Optional Chaining.swift */; };
+		1D29EFB529C87D5C004D0A08 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D29EFB429C87D5C004D0A08 /* main.swift */; };
 		1D8A042429C7533000E8F97E /* 02_String Manipulation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D8A042329C7533000E8F97E /* 02_String Manipulation.swift */; };
 		1DBBFA9229BE14C2003D70CA /* 01_optionals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DBBFA9129BE14C2003D70CA /* 01_optionals.swift */; };
 /* End PBXBuildFile section */
@@ -29,7 +30,8 @@
 /* Begin PBXFileReference section */
 		1D29EFA929C7581F004D0A08 /* String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = String.swift; sourceTree = "<group>"; };
 		1D29EFAE29C75ADF004D0A08 /* 04_Dictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 04_Dictionary.swift; sourceTree = "<group>"; };
-		1D29EFB129C81CC8004D0A08 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		1D29EFB129C81CC8004D0A08 /* 05_Optional Chaining.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "05_Optional Chaining.swift"; sourceTree = "<group>"; };
+		1D29EFB429C87D5C004D0A08 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		1D8A042329C7533000E8F97E /* 02_String Manipulation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "02_String Manipulation.swift"; sourceTree = "<group>"; };
 		1DBBFA8E29BE14C2003D70CA /* swift_practice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = swift_practice; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DBBFA9129BE14C2003D70CA /* 01_optionals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 01_optionals.swift; sourceTree = "<group>"; };
@@ -73,9 +75,18 @@
 		1D29EFB029C81C78004D0A08 /* 05_Optional Chaining */ = {
 			isa = PBXGroup;
 			children = (
-				1D29EFB129C81CC8004D0A08 /* main.swift */,
+				1D29EFB129C81CC8004D0A08 /* 05_Optional Chaining.swift */,
+				1D29EFB329C87D36004D0A08 /* 06_Set */,
 			);
 			path = "05_Optional Chaining";
+			sourceTree = "<group>";
+		};
+		1D29EFB329C87D36004D0A08 /* 06_Set */ = {
+			isa = PBXGroup;
+			children = (
+				1D29EFB429C87D5C004D0A08 /* main.swift */,
+			);
+			path = 06_Set;
 			sourceTree = "<group>";
 		};
 		1DBBFA8529BE14C2003D70CA = {
@@ -165,9 +176,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				1D8A042429C7533000E8F97E /* 02_String Manipulation.swift in Sources */,
-				1D29EFB229C81CC8004D0A08 /* main.swift in Sources */,
+				1D29EFB229C81CC8004D0A08 /* 05_Optional Chaining.swift in Sources */,
 				1DBBFA9229BE14C2003D70CA /* 01_optionals.swift in Sources */,
 				1D29EFAA29C7581F004D0A08 /* String.swift in Sources */,
+				1D29EFB529C87D5C004D0A08 /* main.swift in Sources */,
 				1D29EFAF29C75ADF004D0A08 /* 04_Dictionary.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
